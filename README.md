@@ -1,6 +1,6 @@
 # YaTube Project
 ### Description
-This project is a scoial network for people.
+This project is a social network for people.
 ### Technologies
 Python 3.7
 Django 2.2.19
